@@ -32,24 +32,18 @@ h1 {
   margin: 10px;
   width: 100%;
 }
+
 .element1 {
   /* display lavender color as a background for element1*/
   background-color: #aa80ff;
-  height: 100px;
-  margin: 10px;
-  width: 100%;
 }
+
 .element2 {
   /* display pastel pink as a background for element2 */
   background-color: #ff80bf;
-  height: 100px;
-  margin: 10px;
-  width: 100%;
 }
+
 .element3 {
   /* display mint green as a background for element3 */
   background-color: #00e6ac;
-  height: 100px;
-  margin: 10px;
-  width: 100%;
 }
