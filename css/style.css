@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 12px;
 }
 nav {
   background-color: yellow;
@@ -15,7 +15,7 @@ section {
 }
 
 h1 {
-  font-family: sans-serif;
+  font-family: Open Sans;
   font-size: 2em;
 }
 
@@ -27,7 +27,7 @@ h1 {
 
 .element {
   /* all the element has following style */
-  background-color: green;
+  background-color: #C0C0C0;
   height: 100px;
   margin: 10px;
   width: 100%;
